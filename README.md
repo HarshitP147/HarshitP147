@@ -45,8 +45,10 @@ I'm a beginner JavaScript developer who's interested in the MERN stack 🔥. I'm
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/HarshitP147/MERN-CRUD" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitP147&repo=MERN-CRUD&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/HarshitP147/Simple-Goals-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitP147&repo=Simple-Goals-App&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/HarshitP147/MERN-CRUD" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitP147&repo=MERN-CRUD&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/HarshitP147/Simple-Goals-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitP147&repo=Simple-Goals-App&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
+<br/>
 
-<br /><br /><br /><br /><br />
+<br />
+
 
 <div width="100%" align="center"><a href="https://github.com/HarshitP147/Mysql-ERN-CRUD" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitP147&repo=Mysql-ERN-CRUD&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/HarshitP147/DSA-CPP" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitP147&repo=DSA-CPP&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div>
