@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harshit Pandit
 
-### JavaScript Learner and Ethusiast
+### JavaScript Learner 
 
 I'm a beginner JavaScript developer who's interested in the MERN stack 🔥. I'm also interested in learning React Native and other famous JavaScript libraries.
 
