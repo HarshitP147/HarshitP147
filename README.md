@@ -1,54 +1,116 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harshit Pandit
+# Hey, I'm Harshit 👋
 
-### JavaScript Learner 
+I'm a **Software Engineer** based in Dublin, Ireland 🇮🇪. I graduated with a Bachelor's in Computer Engineering from **Trinity College Dublin** in 2025 and love building things that make an impact — from full-stack web apps to AI systems and real-time graphics.
 
-I'm a beginner JavaScript developer who's interested in the MERN stack 🔥. I'm also interested in learning React Native and other famous JavaScript libraries.
+I'm currently exploring how AI models can be trained and deployed locally on edge devices, and how they can be used to build useful applications while preserving user privacy.
 
--   🌍 I'm based in Thapar Institute of Engineering Technology
--   🔭 I’m currently working on React and Express JS.
--   🤔 I'm trying to understand DataStructures and Algorithms
--   💬 Ask me about anything, I will try give you a hearable answer for sure.
--   😄 Pronouns: He/Him/His
--   ✉️ You can contact me at [harshit7757@gmail.com](mailto:harshit7757@gmail.com)
--   🧠 I'm using 100% of my brain and it's still not going great.
--   ⚡ Always trying to learn some or the other stuff that I find interesting.
+🌐 **[harshit147.dev](https://harshit147.dev)** · 💼 **[linkedin.com/in/harshitpandit7](https://linkedin.com/in/harshitpandit7)**
 
-### Skills
+---
 
-<p align="left">
-                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-                                <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-                                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-                                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-                                <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-                                <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-                                <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-                                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-                    </p>
+## 🛠️ Tech Stack
 
+**Languages**
 
-### Socials
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
-<p align="left"> <a href="https://codesandbox.io/u/HarshitP147" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> <a href="https://discord.com/users/harshie#5135" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/HarshitP147" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_just__harshit_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/harshit-pandit-98444722b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+**Frontend**
 
-### Badges
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-<b>My GitHub Stats</b>
+**Backend & Databases**
 
-<a href="http://www.github.com/HarshitP147"><img src="https://github-readme-stats.vercel.app/api?username=HarshitP147&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="HarshitP147's GitHub stats" /></a>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-<a href="http://www.github.com/HarshitP147"><img src="https://activity-graph.herokuapp.com/graph?username=HarshitP147&bg_color=000000&color=ffffff&line=6366f1&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+**AI / ML**
 
-<a href="https://github.com/HarshitP147" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitP147&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
 
-<b>Top Repositories</b>
+**Tooling**
 
-<div width="100%" align="center"><a href="https://github.com/HarshitP147/MERN-CRUD" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitP147&repo=MERN-CRUD&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/HarshitP147/Simple-Goals-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitP147&repo=Simple-Goals-App&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
-<br/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<br />
+---
 
+## 🚀 Featured Projects
 
-<div width="100%" align="center"><a href="https://github.com/HarshitP147/Mysql-ERN-CRUD" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitP147&repo=Mysql-ERN-CRUD&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/HarshitP147/DSA-CPP" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitP147&repo=DSA-CPP&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en" /></a></div>
+### 🌐 [Portfolio Website](https://harshit147.dev) · [repo](https://github.com/HarshitP147/harshit147-portfolio)
+My personal portfolio — a full-stack site with a 3D interactive scene, blog, and project showcase built with a modern web stack.
+
+`Next.js` `React Three Fiber` `Apollo GraphQL` `Upstash Redis` `Framer Motion` `Shadcn UI`
+
+---
+
+### 💬 [Prattles Chat](https://github.com/HarshitP147/prattles-frontend)
+A real-time full-stack chat application built on the MERN stack, split across a dedicated frontend and backend.
+
+`MongoDB` `Express` `React` `Node.js` `TypeScript`
+
+> Also see: [prattles-backend](https://github.com/HarshitP147/prattles-backend)
+
+---
+
+### 🤖 [Ollama Flask API](https://github.com/HarshitP147/ollama-flask)
+A Flask server that bridges local Ollama LLM inference with a web-accessible API — bringing local AI to any HTTP client.
+
+`Python` `Flask` `Ollama` `HTML`
+
+---
+
+### 🔢 [MNIST Imagen](https://github.com/HarshitP147/mnist-imagen)
+A diffusion model trained from scratch to generate handwritten digit images based on the MNIST dataset.
+
+`PyTorch` `Jupyter Notebook` `Matplotlib` `NumPy`
+
+---
+
+### 🌿 [Solarpunk Scene Explorer](https://github.com/HarshitP147/landscape-opengl-Graphics)
+A C++ OpenGL renderer that builds a futuristic Emerald Isle scene with a custom real-time graphics pipeline.
+
+`C++` `OpenGL` `CMake`
+
+---
+
+## ✍️ Writing
+
+- 📝 [**The layers of modern AI infrastructure**](https://harshit147.dev/blog/layers-of-ai) — A breakdown of the full AI stack for a general audience *(Mar 2026)*
+- 📝 [**A quick guide to JavaScript Web Workers**](https://harshit147.dev/blog/guide-to-web-workers) — Concurrency in the browser without the headache *(Jul 2025)*
+
+---
+
+## 📊 GitHub Stats
+
+![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshitP147&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitP147&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📫 Get in touch
+
+[![Portfolio](https://img.shields.io/badge/harshit147.dev-000000?style=flat-square&logo=vercel&logoColor=white)](https://harshit147.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitpandit7)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HarshitP147)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Harshit77406528)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harshit7757@gmail.com)
