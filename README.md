@@ -100,10 +100,9 @@ A C++ OpenGL renderer that builds a futuristic Emerald Isle scene with a custom 
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Graph
 
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshitP147&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitP147&layout=compact&theme=dark&hide_border=true)
+![snake gif](https://github.com/HarshitP147/HarshitP147/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
