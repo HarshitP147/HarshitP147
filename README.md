@@ -54,47 +54,10 @@ I'm currently exploring how AI models can be trained and deployed locally on edg
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌐 [Portfolio Website](https://harshit147.dev) · [repo](https://github.com/HarshitP147/harshit147-portfolio)
-My personal portfolio — a full-stack site with a 3D interactive scene, blog, and project showcase built with a modern web stack.
-
-`Next.js` `React Three Fiber` `Apollo GraphQL` `Upstash Redis` `Framer Motion` `Shadcn UI`
-
----
-
-### 💬 [Prattles Chat](https://github.com/HarshitP147/prattles-frontend)
-A real-time full-stack chat application built on the MERN stack, split across a dedicated frontend and backend.
-
-`MongoDB` `Express` `React` `Node.js` `TypeScript`
-
-> Also see: [prattles-backend](https://github.com/HarshitP147/prattles-backend)
-
----
-
-### 🤖 [Ollama Flask API](https://github.com/HarshitP147/ollama-flask)
-A Flask server that bridges local Ollama LLM inference with a web-accessible API — bringing local AI to any HTTP client.
-
-`Python` `Flask` `Ollama` `HTML`
-
----
-
-### 🔢 [MNIST Imagen](https://github.com/HarshitP147/mnist-imagen)
-A diffusion model trained from scratch to generate handwritten digit images based on the MNIST dataset.
-
-`PyTorch` `Jupyter Notebook` `Matplotlib` `NumPy`
-
----
-
-### 🌿 [Solarpunk Scene Explorer](https://github.com/HarshitP147/landscape-opengl-Graphics)
-A C++ OpenGL renderer that builds a futuristic Emerald Isle scene with a custom real-time graphics pipeline.
-
-`C++` `OpenGL` `CMake`
-
----
-
 ## ✍️ Writing
 
+- 📝 [**LLM API Pricing, from the ground up**](https://harshit147.dev/blog/llm-api-pricing) — A simple and introductory guide to understand and form a mental map how GPUs are utilised to determine LLM's API prices *(Aug 2026)*
+- 📝 [**Building Neural Networks from First principles**](https://harshit147.dev/blog/nn-from-scratch-1) — A two part blog series where I show how to implement neural networks and understand many concepts from the absolute ground up, just using Python and Numpy *(July 2026)*
 - 📝 [**The layers of modern AI infrastructure**](https://harshit147.dev/blog/layers-of-ai) — A breakdown of the full AI stack for a general audience *(Mar 2026)*
 - 📝 [**A quick guide to JavaScript Web Workers**](https://harshit147.dev/blog/guide-to-web-workers) — Concurrency in the browser without the headache *(Jul 2025)*
 
