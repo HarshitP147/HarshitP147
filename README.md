@@ -1,8 +1,8 @@
 # Hey, I'm Harshit 👋
 
-I'm a **Software Engineer** based in Dublin, Ireland 🇮🇪. I graduated with a Bachelor's in Computer Engineering from **Trinity College Dublin** in 2025 and love building things that make an impact — from full-stack web apps to AI systems and real-time graphics.
+I'm a **Software Engineer** and an **AI Engineer**. I graduated with a Bachelor's in Computer Engineering from **Trinity College Dublin** in 2025 and love building things that make an impact — from full-stack web apps to AI systems and real-time graphics.
 
-I'm currently exploring how AI models can be trained and deployed locally on edge devices, and how they can be used to build useful applications while preserving user privacy.
+I'm currently building my skills to become an **AI Inference Engineer**. This role is responsible to determine why Inferencing is hard, what challenges are associated with it and how exactly GPUs are utilised to serve frontier intelliegence to everyone.
 
 🌐 **[harshit147.dev](https://harshit147.dev)** · 💼 **[linkedin.com/in/harshitpandit7](https://linkedin.com/in/harshitpandit7)**
 
